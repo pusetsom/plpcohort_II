@@ -1,0 +1,67 @@
+Python Quiz
+Pusetso Mguzulwa	Beauty Nyatsungo	Alex Gichobi Muriithi
+Isaac Koech	Moses Mangwana	Ramaesela Rabecca Phoshoko
+Roy Mutua	Collins Mutai	Dolly Ngugi
+Benson Nsovo Ngobeni
+
+1.	
+Concept	Entity? Attribute? Instance?	Example of an Instance or Entity
+Vehicle	Entity	Truck
+Diet Cola	Instance	Drink
+Price	Attribute	House
+Customer name	Attribute	Person
+Green	Attribute	Bag
+
+2.	Entity: STUDENT
+Attribute Identifier: student id
+Entity: MOVIE
+Attribute Identifier: title
+Entity: LOCKER
+Attribute Identifier: number
+
+3.	Date of Birth
+
+4.	
+Order	Food Item	Customer
+#OrderNumberID
+*OrderDate
+*OrderTime
+°Customer	#FoodID
+*FoodName
+*FoodPrice	#CustomerID
+°CustomerName
+°CustomerAddress
+
+5.	Visio Drawing Pending
+
+6.	Visio Drawing Pending
+
+7.	Visio Drawing Pending
+Cardinality
+a.	One stylist can be a preference of many clients so there’s crow’s foot at the client side.
+b.	One client can only have one preference at a time so there’s a single toe on the stylist.
+Optionality
+a.	Stylist may be bad and not preferred so there are dotted lines on stylist side.
+b.	Client must have a preference otherwise next available stylist is assigned so there’s solid line on the client side.
+
+8.	Visio Drawing Pending
+Cardinality
+a.	A band can have multiple musicians so there’s a crow’s foot on the musician side.
+b.	A musician can only belong to one band so there’s a single toe on the band side.
+
+Optionality
+a.	A musician may be solo artist so it’s a dotted line on the musician side.
+b.	A band may have one or more musicians in it so there’s a solid line on the band side.
+
+9.	Visio Drawings Pending: a, b, c, d, e 
+
+10.	Relationship types:
+a.	Many-to-many (M:M)
+b.	One-to-Many (1:M)
+c.	Many-to-Many (M:M)
+d.	One-to-One (1:1)
+e.	One-to-One (1:1)
+
+11.	Visio Drawing Pending
+
+12.	Answer was provided.
