@@ -2,8 +2,8 @@
 # .join - joins the list with no whitespaces
 string = input('Input a string name to check the length: ')
 if len(''.join(str(string))) == 0:
-    space = string.split()
-    print("{0} is {1}".format(string, str(len(''.join(space)))))
+    print('0 because it\'s an empty string.')
 else:
-    print("Empty string")
+    space = string.split()
+    print(f"{str(len(''.join(space)))} because it has {str(len(''.join(space)))} characters.")
     
